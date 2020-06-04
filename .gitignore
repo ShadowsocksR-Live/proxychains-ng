@@ -1,3 +1,8 @@
+.idea/
+build/
+cmake-build-debug/
+cmake-build-release/
+*.dylib
 proxychains4
 *.bz2
 *.xz
